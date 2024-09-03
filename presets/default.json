@@ -1,6 +1,7 @@
 {
     "default_model": "juggernautXL_v8Rundiffusion.safetensors",
     "default_model": "ponyDiffusionV6XL_v6StartWithThisOne.safetensors",
+    "default_model": "epicrealismXL_v8Kiss.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -46,6 +47,7 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
+        "epicrealismXL_v8Kiss.safetensors": "https://civitai.com/api/download/models/646523",
         "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
     },
     "embeddings_downloads": {},
