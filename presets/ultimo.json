@@ -1,5 +1,4 @@
 {
-    "default_model": "diffusion_pytorch_model.safetensors",
     "default_model": "CyberRealisticXLPlay_V5.3_FP16.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
@@ -44,7 +43,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "diffusion_pytorch_model.safetensors": "https://huggingface.co/John6666/xxx-ray-dmd2-sdxl/resolve/main/unet/diffusion_pytorch_model.safetensors",  "CyberRealisticXLPlay_V5.3_FP16.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticXL/resolve/main/CyberRealisticXLPlay_V5.3_FP16.safetensors", 
+        "CyberRealisticXLPlay_V5.3_FP16.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticXL/resolve/main/CyberRealisticXLPlay_V5.3_FP16.safetensors", 
     },
     "embeddings_downloads": {},
     "lora_downloads": {
