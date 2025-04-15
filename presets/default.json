@@ -1,6 +1,7 @@
 {
     "default_model": "juggernautXL_v8Rundiffusion.safetensors",
     "default_model": "ponyRealism_v21MainVAE.safetensors",
+    "default_model": "CyberRealisticXLPlay_V5.3_FP16.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -46,7 +47,8 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors"
+        "ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors",
+        "CyberRealisticXLPlay_V5.3_FP16.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticXL/resolve/main/CyberRealisticXLPlay_V5.3_FP16.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
