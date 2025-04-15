@@ -1,7 +1,6 @@
 {
-    "default_model": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
-     "default_model": "ponyRealism_v21VAE.safetensors",
-    "default_model": "a",
+    "default_model": "diffusion_pytorch_model.safetensors",
+    "default_model": "CyberRealisticXLPlay_V5.3_FP16.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -45,7 +44,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",  "ponyRealism_v21VAE.safetensors": "https://huggingface.co/thrddr/ponyRealism_v21VAE/resolve/main/ponyRealism_v21VAE.safetensors", "a":"https://huggingface.co/John6666/xxx-ray-dmd2-sdxl/resolve/main/unet/diffusion_pytorch_model.safetensors"
+        "diffusion_pytorch_model.safetensors": "https://huggingface.co/John6666/xxx-ray-dmd2-sdxl/resolve/main/unet/diffusion_pytorch_model.safetensors",  "CyberRealisticXLPlay_V5.3_FP16.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticXL/resolve/main/CyberRealisticXLPlay_V5.3_FP16.safetensors", 
     },
     "embeddings_downloads": {},
     "lora_downloads": {
