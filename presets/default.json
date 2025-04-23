@@ -2,7 +2,7 @@
     "default_model": "juggernautXL_v8Rundiffusion.safetensors",
     "default_model": "ponyRealism_v21MainVAE.safetensors",
     "default_model": "bigLove_xl25.safetensors",
-    "default_model": "diffusion_pytorch_model.safetensors",
+    "default_model": "xxxRay_dmd2.safetensors",
     "default_model": "CyberRealisticXLPlay_V5.3_FP16.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
@@ -51,7 +51,7 @@
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
         "ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors",
         "bigLove_xl25.safetensors": "https://civitai.com/api/download/models/1590591",
-        "diffusion_pytorch_model.safetensors": "https://huggingface.co/John6666/big-love-xl25-sdxl/resolve/main/unet/diffusion_pytorch_model.safetensors",
+        "xxxRay_dmd2.safetensors": "https://civitai.com/api/download/models/1624818",
         "CyberRealisticXLPlay_V5.3_FP16.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticXL/resolve/main/CyberRealisticXLPlay_V5.3_FP16.safetensors"
     },
     "embeddings_downloads": {},
