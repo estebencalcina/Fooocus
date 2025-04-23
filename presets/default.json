@@ -50,8 +50,8 @@
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
         "ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors",
-        "bigLove_xl25.safetensors": "https://civitai.com/api/download/models/1590591",
-        "xxxRay_dmd2.safetensors": "https://civitai.com/api/download/models/1624818",
+        "bigLove_xl25.safetensors": "https://civitai.com/api/download/models/1590591?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fadb3977088fdfa4d675f8c9f9653d28",
+        "xxxRay_dmd2.safetensors": "https://civitai.com/api/download/models/1624818?type=Model&format=SafeTensor&size=full&fp=fp16&token=fadb3977088fdfa4d675f8c9f9653d28",
         "CyberRealisticXLPlay_V5.3_FP16.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticXL/resolve/main/CyberRealisticXLPlay_V5.3_FP16.safetensors"
     },
     "embeddings_downloads": {},
