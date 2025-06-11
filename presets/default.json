@@ -1,9 +1,7 @@
 {
     "default_model": "juggernautXL_v8Rundiffusion.safetensors",
     "default_model": "ponyRealism_V23.safetensors",
-    "default_model": "bigLove_xl25.safetensors",
     "default_model": "bigLust_v16.safetensors",
-    "default_model": "CyberRealisticXLPlay_V5.3_FP16.safetensors",
     "default_model": "prefectIllustriousXL_v15.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
@@ -51,9 +49,7 @@
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
         "ponyRealism_V23.safetensors": "https://civitai.com/api/download/models/1763661?type=Model&format=SafeTensor&size=full&fp=fp16&token=021f2a360fc7ab4f2433af709013a9fc",
-        "bigLove_xl25.safetensors": "https://civitai.com/api/download/models/1590591?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=021f2a360fc7ab4f2433af709013a9fc",
         "bigLust_v16.safetensors": "https://civitai.com/api/download/models/1081768?type=Model&format=SafeTensor&size=full&fp=fp16&token=021f2a360fc7ab4f2433af709013a9fc",
-        "CyberRealisticXLPlay_V5.3_FP16.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticXL/resolve/main/CyberRealisticXLPlay_V5.3_FP16.safetensors",
         "prefectIllustriousXL_v15.safetensors": "https://civitai.com/api/download/models/1731647?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=021f2a360fc7ab4f2433af709013a9fc"
     },
     "embeddings_downloads": {},
